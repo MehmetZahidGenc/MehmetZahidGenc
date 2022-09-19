@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, World! :wave:
 
-<!--
-**MehmetZahidGenc/MehmetZahidGenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/71969819/191048590-69aa12c3-4c61-42cd-ac0a-b94f041ecbdc.gif" width="600"/>
+</div>
 
-Here are some ideas to get you started:
+## About Me:
+ 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+ 
+:man_technologist: I am a Computer Vision Lover who work on;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:heart: Image Processing
+
+:heart: Computer Vision
+
+:heart: Deep Learning for Computer Vision
+
