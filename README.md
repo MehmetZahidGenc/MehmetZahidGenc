@@ -7,7 +7,7 @@
 ## About Me:
  
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/71969819/191278742-bb6cfd28-a459-47d9-97ba-94188ca551dd.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/71969819/191278742-bb6cfd28-a459-47d9-97ba-94188ca551dd.gif" width="200"/>
 </div>
 
 
