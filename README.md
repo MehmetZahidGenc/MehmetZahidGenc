@@ -7,7 +7,7 @@
 ## About Me:
  
 <div id="header" align="center">
-  ![programming](https://user-images.githubusercontent.com/71969819/191271654-2a20c357-3d75-44d7-9a10-35bc77262d3c.gif)
+
 </div>
 
  
