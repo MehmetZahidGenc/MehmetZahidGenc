@@ -7,9 +7,9 @@
 ## About Me:
  
 <div id="header" align="center">
-  <img src=""https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166.js"" width="100"/>
+  <img src=""https://user-images.githubusercontent.com/71969819/191271018-139319c4-497b-4a93-a148-ceaf8101efee.gif"" width="100"/>
 </div>
- 
+
  
 :man_technologist: I am a Computer Vision Lover who work on;
 
