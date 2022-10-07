@@ -16,10 +16,10 @@
 :man_technologist: I am a Computer Vision Lover who work on;
 
 
-* **`Image Processing`:**
-
-:heart: Computer Vision
-* **`Computer Vision`:**
+* **`Image Processing`**
 
 
-* **`Deep Learning for Computer Vision`:**
+* **`Computer Vision`**
+
+
+* **`Deep Learning for Computer Vision`**
