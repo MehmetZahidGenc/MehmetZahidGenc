@@ -23,3 +23,5 @@
 
 
 * **`Deep Learning for Computer Vision`**
+
+![](https://komarev.com/ghpvc/?username=your-github-MehmetZahidGenc&color=brightgreen)
